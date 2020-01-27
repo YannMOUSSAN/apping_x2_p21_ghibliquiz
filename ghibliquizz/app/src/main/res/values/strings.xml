@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ghibliquizz</string>
+    <string name="which_one_of_these_characters_can_be_found_in_castle_in_the_sky">Which one of these characters can be found in \'Castle in the Sky\' ?</string>
+    <string name="ghibliquizimg">ghibliquizimg</string>
+</resources>
