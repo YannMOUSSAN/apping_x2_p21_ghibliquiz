@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GhibliQuiz</string>
+    <string name="question">Which one of these characters can be found in \'Castle in the Sky\' ?</string>
+    <string name="logo">Logo</string>
+    <string name="name">TextView</string>
+    <string name="age">TextView</string>
+</resources>
